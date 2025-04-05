@@ -1,1 +1,2 @@
 # function002
+welcome
